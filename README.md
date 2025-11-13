@@ -2,15 +2,9 @@
 <!--  -->
 <img 
   src="DSC026481.jpg" 
-  alt="Me"
+  alt="Me and the universe"
   width="400"
   align="right"
-  radius="500"
-  style="
-    object-fit: cover;
-    margin-left: 20px;
-    margin-bottom: 10px;
-"
 />
 
 ***About Me***
