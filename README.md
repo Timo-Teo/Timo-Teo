@@ -1,7 +1,17 @@
 <h1 align="center"><b>Hey, I'm Timoteo Camuendo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; padding: 1rem" alt="Me and the universe" src="DSC026481.jpg">
-
+<img 
+  src="DSC026481.jpg" 
+  alt="Me"
+  width="400"
+  align="right"
+  radius="500"
+  style="
+    object-fit: cover;
+    margin-left: 20px;
+    margin-bottom: 10px;
+"
+/>
 
 ***About Me***
 
